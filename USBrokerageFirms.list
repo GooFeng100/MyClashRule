@@ -1,0 +1,12 @@
+# 美国券商  
+# AMP,嘉信理财,第一证券,IBKR
+# DOMAIN,apple.comscoreresearch.com
+
+DOMAIN-KEYWORD,interactivebrokers
+DOMAIN-KEYWORD,ibkrs
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,firstrade.com
+DOMAIN-SUFFIX,ampclientportal.com  
+
+
+# IP-CIDR,17.0.0.0/8,no-resolve
