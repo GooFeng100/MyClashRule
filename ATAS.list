@@ -2,6 +2,7 @@
 # ATAS服务器
 # DOMAIN,apple.comscoreresearch.com  
 # DOMAIN-KEYWORD,interactivebrokers  
-DOMAIN-SUFFIX,atas.com   
+DOMAIN-SUFFIX,atas.com
+DOMAIN-SUFFIX,atas.net
 
 # IP-CIDR,17.0.0.0/8,no-resolve
