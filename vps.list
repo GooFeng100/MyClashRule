@@ -1,0 +1,13 @@
+# 美国券商  
+# AMP,嘉信理财,第一证券,IBKR
+# DOMAIN,apple.comscoreresearch.com
+
+DOMAIN-SUFFIX,vultr.com
+DOMAIN-SUFFIX,vultrusercontent.com
+DOMAIN-SUFFIX,vultrcdn.com
+DOMAIN-SUFFIX,choopa.com
+# DOMAIN,mail.yourdomain.com
+IP-CIDR,107.191.48.194/32
+
+
+# IP-CIDR,17.0.0.0/8,no-resolve
